@@ -1,4 +1,4 @@
-# Notification API
+# Custom Notification
 
 Scope of work: Creating web application for notification.
 
@@ -13,7 +13,7 @@ git clone https://github.com/indhumathiK-dot/notification_api.git
 npm install
 npm start
 
-Visit http://localhost:3000 from browser
+Visit http://localhost:5000 from browser
 ```
 
 
